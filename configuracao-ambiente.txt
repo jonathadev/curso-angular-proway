@@ -1,0 +1,2 @@
+ng new proway-computers --no-standalone  // para manter o app.module versoes novas nao tem mais
+https://stackoverflow.com/questions/77454741/why-app-module-doesnt-exist-in-angular-17
